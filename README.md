@@ -1,0 +1,2 @@
+# coolkeeb
+A cool little keyboard i made to play Asphalt without using the whole keyboard. A pretty simple project in terms of complexity, but i spen a lot of time and effort building this. One of my first ever proper hardware projects :D
