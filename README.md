@@ -27,7 +27,8 @@ Thats all for now, i may add other stuff now, this is just the basic version
 
 ## BOM
 This is all you need to make this yourself, nothing too much :D
-5x Cherry MX Switches
-5x DSA Keycaps (I 3d printed these mysef tho)
-1x XIAO RP2040
-1x Case (3 printed parts)
+- 5x Cherry MX Switches
+- 5x DSA Keycaps (I 3d printed these mysef tho)
+- 1x XIAO RP2040
+- 1x Case (3 printed parts)
+- 1x PCB
